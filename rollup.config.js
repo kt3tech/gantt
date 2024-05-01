@@ -5,7 +5,7 @@ const dev = {
   input: "src/index.js",
   output: {
     name: "Gantt",
-    file: "dist/frappe-gantt.js",
+    file: "dist/k3_kt_com-gantt.js",
     sourcemap: true,
     format: "iife",
   },
@@ -19,7 +19,7 @@ const prod = {
   input: "src/index.js",
   output: {
     name: "Gantt",
-    file: "dist/frappe-gantt.min.js",
+    file: "dist/k3_kt_com-gantt.min.js",
     sourcemap: true,
     format: "iife",
   },

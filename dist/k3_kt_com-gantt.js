@@ -1242,7 +1242,7 @@ var Gantt = (function () {
         svg_element = element;
       } else {
         throw new TypeError(
-          "K3_kt_com Gantt only supports usage of a string CSS selector," +
+          "Frappé Gantt only supports usage of a string CSS selector," +
           " HTML DOM element or SVG DOM element for the 'element' parameter",
         );
       }
